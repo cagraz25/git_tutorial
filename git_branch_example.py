@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import math
 def median (input_list):
   sorted_list = sorted(input_list)
